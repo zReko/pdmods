@@ -1,0 +1,10 @@
+{
+	"name": "Multiplayer Pause",
+	"description": "Pause an online game when hosting.",
+	"hooks": [
+		{
+			"hook_id": "lib/managers/menumanager",
+			"script_path": "menu.lua"
+			}
+		]
+	}

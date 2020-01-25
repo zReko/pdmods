@@ -1,0 +1,7 @@
+{
+	"m_pause": "Pause",
+	"m_pause_desc": "Pause the game for all players.",
+	"m_unpause": "Unpause",
+	"m_unpause_desc": "Resumes the game for all players.",
+	"m_pause_timer": "Pausing the game in $time seconds..."
+	}
